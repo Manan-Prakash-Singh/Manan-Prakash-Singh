@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manan-prakash-singh&label=Profile%20views&color=0e75b6&style=flat" alt="manan-prakash-singh" /> </p>
 
-- 🔭 I’m currently working on [leetcode-go](leetcode-go)
+- 🔭 I’m currently working on [leetcode-go](https://github.com/Manan-Prakash-Singh/leetcode-go)
 
 
 <h3 align="left">Languages and Tools:</h3>
